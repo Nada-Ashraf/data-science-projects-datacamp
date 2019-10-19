@@ -1,7 +1,5 @@
 # Data science mini-projects
 
-<img src="./datacamp.png"  width="250">
-
 DataCamp projects are a great way to get hands-on experience and solve real-world problems. Here I collect my notebooks for Datacamp projects I completed.
 
 ## Index
