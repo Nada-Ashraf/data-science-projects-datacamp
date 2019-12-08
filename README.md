@@ -10,4 +10,5 @@ DataCamp projects are a great way to get hands-on experience and solve real-worl
 |  Give Life - Predict Blood Donations   |   Python   |
 | Rise and Fall of Programming Languages |     R      |
 | Exploring the Kaggle Data Science Survey |     R      |
+| Predicting Credit Card Approvals	 |     Python     |
 
