@@ -11,4 +11,5 @@ DataCamp projects are a great way to get hands-on experience and solve real-worl
 | Rise and Fall of Programming Languages |     R      |
 | Exploring the Kaggle Data Science Survey |     R      |
 | Predicting Credit Card Approvals	 |     Python     |
+| Comparing Cosmetics by Ingredients		 |     Python     |
 
